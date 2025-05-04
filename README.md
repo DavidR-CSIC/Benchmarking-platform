@@ -1,0 +1,1 @@
+This file contains the CAD drawings of the benchmarking platform presented in the paper "A reproducible benchmarking methodology to assess robotic locomotion over irregular terrains"", submitted to Robotics and Automation Magazine
